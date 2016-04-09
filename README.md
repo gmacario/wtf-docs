@@ -66,10 +66,10 @@ Use Cases:
 
   - [X] Create an empty project https://github.com/WillyShakes/UdooWtf
   - [ ] Create a class for the beacon discovery (output: list of devices object)
-  - [ ] Create the model class devices and the database (crud metods)
-  - [ ] Create a class to read the data on the Udoo hardware
+  - [ ] Create the model class devices and the database (CRUD metods)
+  - [ ] Create a class to read a digital input on the UDOO NEO hardware (or from IoTSemplice?)
   - [ ] Create an activity to test the first use case
-  - [ ] Add the Google Calendar API (@umbho)
+  - [ ] Add the Google Calendar API ([@umbho](https://github.com/umbho))
 
 * Branding identity
 
