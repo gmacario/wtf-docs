@@ -1,4 +1,6 @@
 # wtf-docs
+
+[![Join the chat at https://gitter.im/gmacario/wtf-docs](https://badges.gitter.im/gmacario/wtf-docs.svg)](https://gitter.im/gmacario/wtf-docs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 WhaT I Forget? DroidCon Hackaton 2016
 
 This is the main project repository for the WTF Team at DroidCon Hackaton 2016.
