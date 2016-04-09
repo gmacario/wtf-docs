@@ -102,9 +102,9 @@ Use Cases:
 #### The hardware for Hackaton PoC
 
 * [UDOO NEO](http://www.udoo.org/udoo-neo/)
-* [KIT LCD 7"" - Touch for NEO](http://shop.udoo.org/eu/accessories/video-kit-7-touch-for-neo.html)
+* [KIT LCD 7" - Touch for NEO](http://shop.udoo.org/eu/accessories/video-kit-7-touch-for-neo.html)
 * [IoTSemplice](http://www.iotsemplice.com/)
-* ...
+* A few different beacons provided by iBLio
 
 A big thanks to the sponsors:
 
