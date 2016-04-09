@@ -41,6 +41,9 @@ We'll use the pattern MVP (model view presenter)
 #### Create a class to read the data on the Udoo hardware
 #### Create an activity to test the first use case
 #### TBD (to be done) add the google calendare API    @umbho
+### brending identity
+#### GUIs
+### web dashboard (2.0)
 
 TODO
 
