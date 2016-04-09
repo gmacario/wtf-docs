@@ -32,7 +32,7 @@ Use Cases:
 ![High-Level Architecture Diagram](images/2016-04-09 13.30.32.jpg)
 
 * There is an Android app on the UDDO NEO with a local database and in future it'll have a cloud service
-* We will use the MVP ([Mode-View-Presenter]() pattern
+* We will use the MVP ([Mode-View-Presenter](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter) pattern
 
 ### WTF - Work Breakdown Structure
 
