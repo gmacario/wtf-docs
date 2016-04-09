@@ -39,7 +39,7 @@ Use Cases:
 ![High-Level Architecture Diagram](images/wtf1.jpg)
 
 * There is an Android app on the UDDO NEO with a local database and in future it'll have a cloud service
-* We will use the MVP ([Mode-View-Presenter](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter) pattern
+* We will use the MVP ([Mode-View-Presenter](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter)) pattern
 
 ### WTF - Work Breakdown Structure
 
@@ -48,7 +48,7 @@ Use Cases:
   - [X] Create project page - See https://github.com/gmacario/wtf-docs
     - [X] Document Team Members, skills
     - [X] Write and agree on project charter
-  - [ ] Create chat room - See https://github.com/gmacario/wtf-docs/issues/11
+  - [X] Create chat room - See https://github.com/gmacario/wtf-docs/issues/11
 
 * Develop Architecture
 
@@ -57,7 +57,7 @@ Use Cases:
 * Project infrastructure
 
   - [X] [Setup webserver infrastructure (nginx)](https://github.com/gmacario/wtf-docs/issues/2) ==> http://wtf.solarma.it/
-  - [ ] [Install Docker on VM](https://github.com/gmacario/wtf-docs/issues/3)
+  - [X] [Install Docker on VM](https://github.com/gmacario/wtf-docs/issues/3)
   - [ ] [Setup Jenkins](https://github.com/gmacario/wtf-docs/issues/4)
   - [ ] [Create Jenkins job to build UDOO app](https://github.com/gmacario/wtf-docs/issues/5)
   - [ ] [Deploy APK to UDOO](https://github.com/gmacario/wtf-docs/issues/6)
