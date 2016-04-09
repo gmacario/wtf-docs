@@ -49,7 +49,7 @@ Use Cases:
 
 * Project infrastructure
 
-  - [X] [Setup webserver infrastructure (nginx)](https://github.com/gmacario/wtf-docs/issues/2)
+  - [X] [Setup webserver infrastructure (nginx)](https://github.com/gmacario/wtf-docs/issues/2) ==> http://wtf.solarma.it/
   - [ ] [Install Docker on VM](https://github.com/gmacario/wtf-docs/issues/3)
   - [ ] [Setup Jenkins](https://github.com/gmacario/wtf-docs/issues/4)
   - [ ] [Create Jenkins job to build UDOO app](https://github.com/gmacario/wtf-docs/issues/5)
@@ -77,8 +77,8 @@ TODO
 
 ### Repositories
 
-* https://github.com/WillyShakes/UdooWtf
-* TODO
+* App: https://github.com/WillyShakes/UdooWtf
+* Website: https://github.com/dolcestilnuovo65/wtf-GUI
 
 #### The hardware for Hackaton PoC
 
