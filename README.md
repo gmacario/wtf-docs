@@ -2,7 +2,7 @@
 
 **WTF** is the acronym for "**W**ha**T** I **F**orgot?**" (no, this is not [what you probably thought...](http://s2.quickmeme.com/img/d0/d0374478557798edfc964afd006512de457207f70346d8e2ef524a98afd73578.jpg))
 
-This is the main project repository of the WTF Team at [Hackagton droidcon Italy 2016](http://it.droidcon.com/2016/hackathon-droidcon-italy/).
+This is the main project repository of the WTF Team at [Hackaton droidcon Italy 2016](http://it.droidcon.com/2016/hackathon-droidcon-italy/).
 
 ### Team Members
 
@@ -19,10 +19,8 @@ This is the main project repository of the WTF Team at [Hackagton droidcon Italy
 
 Use Cases:
 
-1. Esco di casa e dimentico il telefono in casa. Oggi
-2. Esco di casa e dimentico di chiudere il gaz. Domani
-
-
+1. Esco di casa e dimentico il telefono in casa (oggi)
+2. Esco di casa e dimentico di chiudere il gas (domani)
 
 ### The architecture
 
