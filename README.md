@@ -45,7 +45,7 @@ Use Cases:
   - [X] Create project page - See https://github.com/gmacario/wtf-docs
     - [X] Document Team Members, skills
     - [X] Write and agree on project charter
-  - [ ] Create chat room - See Gitter.im
+  - [ ] Create chat room - See https://github.com/gmacario/wtf-docs/issues/11
 
 * Develop Architecture
 
@@ -61,6 +61,8 @@ Use Cases:
 
 * WTF Application (on the UDOO)
 
+Top level issue: https://github.com/gmacario/wtf-docs/issues/10
+
   - [X] Create an empty project https://github.com/WillyShakes/UdooWtf
   - [ ] Create a class for the beacon discovery (output: list of devices object)
   - [ ] Create the model class devices and the database (crud metods)
@@ -75,7 +77,7 @@ Use Cases:
 
 * Prepare pitch
 
-  - TODO
+  - TODO: See top level issue https://github.com/gmacario/wtf-docs/issues/9
 
 TODO
 
