@@ -36,7 +36,14 @@ We'll use the pattern MVP (model view presenter)
 
 ### WTF - Work Breakdown Structure
 
-* Architecture overview
+* Project Setup
+
+  - [X] Create project page - See https://github.com/gmacario/wtf-docs
+    - [X] Document Team Members, skills
+    - [X] Write and agree on project charter
+  - [ ] Create chat room - See Gitter.im
+
+* Develop Architecture
 
   - [X] Identify two use-cases
 
