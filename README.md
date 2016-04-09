@@ -16,7 +16,8 @@ This is the main project repository for the WTF Team at DroidCon Hackaton 2016.
 
 ### The idea
 
-TODO
+Use Cases:
+
 
 ### The architecture
 
