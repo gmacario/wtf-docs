@@ -22,4 +22,8 @@ TODO
 
 TODO
 
+#### The hardware for Hackaton PoC
+
+TODO
+
 <!-- EOF -->
