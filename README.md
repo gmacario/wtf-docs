@@ -31,6 +31,17 @@ Use Cases:
 
 ![High-Level Architecture Diagram](images/2016-04-09 13.30.32.jpg)
 
+There's an android app on Udoo with a local database and in future it'll have a cloud service
+We'll use the pattern MVP (model view presenter)
+
+### Tasks
+#### Create an empty project ()
+#### Create a class for the beacon discovery (output: list of devices object)
+#### Create the model class devices and the database (crud metods)
+#### Create a class to read the data on the Udoo hardware
+#### Create an activity to test the first use case
+#### TBD (to be done) add the google calendare API    @umbho
+
 TODO
 
 #### The hardware for Hackaton PoC
