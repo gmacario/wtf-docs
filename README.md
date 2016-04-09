@@ -20,11 +20,13 @@ This is the main project repository of the WTF Team at [Hackaton droidcon Italy 
 Use Cases:
 
 1. Esco di casa e dimentico il telefono in casa (oggi)
-      - every object will have a beacon on it (cover,gadjets, etc)
-      - Udoo will scan all beacon (true/false) in a restricted area
-      - we' ll use google calendar API (text message for schedule)
-      - 
+    - Every object will have a beacon on it (cover, gadgets, etc)
+    - The UDOO NEO will scan all beacon (true/false) in a restricted area
+    - We will use Google Calendar API (text message for schedule)
+
 2. Esco di casa e dimentico di chiudere il gas (domani)
+    - Door sensor is an input of IoTSemplice
+    - Gas tap is an output of IoTSemplice
 
 ### The architecture
       
