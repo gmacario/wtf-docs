@@ -18,6 +18,10 @@ This is the main project repository for the WTF Team at DroidCon Hackaton 2016.
 
 Use Cases:
 
+1. Esco di casa e dimentico il telefono in casa. Oggi
+2. Esco di casa e dimentico di chiudere il gaz. Domani
+
+
 
 ### The architecture
 
