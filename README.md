@@ -31,8 +31,8 @@ Use Cases:
 
 ![High-Level Architecture Diagram](images/2016-04-09 13.30.32.jpg)
 
-There's an android app on Udoo with a local database and in future it'll have a cloud service
-We'll use the pattern MVP (model view presenter)
+* There is an Android app on the UDDO NEO with a local database and in future it'll have a cloud service
+* We will use the MVP ([Mode-View-Presenter]() pattern
 
 ### WTF - Work Breakdown Structure
 
