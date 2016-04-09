@@ -88,10 +88,16 @@ Use Cases:
 
 * Pitch at the end of the hackaton
 
-### Repositories
+### Sites
 
-* App: https://github.com/WillyShakes/UdooWtf
-* Website: https://github.com/umbho/wtf-GUI
+* Website: http://wtf.solarma.it/
+* CI/CD: http://wtf.solarma.it:9080/
+
+### Source Repositories
+
+* WtfApp for UDOO: https://github.com/WillyShakes/UdooWtf
+* wtf-GUI sources: https://github.com/umbho/wtf-GUI
+* easy-jenkins: https://github.com/gmacario/easy-jenkins
 
 #### The hardware for Hackaton PoC
 
