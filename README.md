@@ -28,6 +28,8 @@ Use Cases:
 
 ### The architecture
 
+![High-Level Architecture Diagram](images/2016-04-09 13.30.32.jpg)
+
 TODO
 
 #### The hardware for Hackaton PoC
