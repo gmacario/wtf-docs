@@ -1,8 +1,10 @@
 # wtf-docs
 
-**WTF** is the acronym for "**W**ha**T** I **F**orgot?" (no, this is not [what you probably thought...](http://s2.quickmeme.com/img/d0/d0374478557798edfc964afd006512de457207f70346d8e2ef524a98afd73578.jpg))
+[![Join the chat at https://gitter.im/gmacario/wtf-docs](https://badges.gitter.im/gmacario/wtf-docs.svg)](https://gitter.im/gmacario/wtf-docs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This is the main project repository of the WTF Team at [Hackaton droidcon Italy 2016](http://it.droidcon.com/2016/hackathon-droidcon-italy/).
+
+**WTF** is the acronym for "**W**ha**T** I **F**orgot?" (no, this is not [what you probably thought...](http://s2.quickmeme.com/img/d0/d0374478557798edfc964afd006512de457207f70346d8e2ef524a98afd73578.jpg))
 
 ### Team Members
 
@@ -31,7 +33,7 @@ Use Cases:
     - Gas tap is an output of IoTSemplice
 
 ### The architecture
-      
+
 
 ![High-Level Architecture Diagram](images/2016-04-09 13.30.32.jpg)
 ![High-Level Architecture Diagram](images/wtf1.jpg)
