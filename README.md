@@ -59,9 +59,7 @@ Use Cases:
   - [ ] [Create Jenkins job to build UDOO app](https://github.com/gmacario/wtf-docs/issues/5)
   - [ ] [Deploy APK to UDOO](https://github.com/gmacario/wtf-docs/issues/6)
 
-* WTF Application (on the UDOO)
-
-Top level issue: https://github.com/gmacario/wtf-docs/issues/10
+* WTF Application (on the UDOO) - Top level issue: https://github.com/gmacario/wtf-docs/issues/10
 
   - [X] Create an empty project https://github.com/WillyShakes/UdooWtf
   - [ ] Create a class for the beacon discovery (output: list of devices object)
@@ -75,11 +73,17 @@ Top level issue: https://github.com/gmacario/wtf-docs/issues/10
   - [ ] GUIs
   - [ ] Web dashboard (2.0)
 
-* Prepare pitch
+* Prepare pitch - Top level issue https://github.com/gmacario/wtf-docs/issues/9
 
-  - TODO: See top level issue https://github.com/gmacario/wtf-docs/issues/9
+  - Develop storyboard
 
-TODO
+* Assemble the pieces for the demo
+
+  - Bring up UDOO NEO with Android
+  - Connect IoTSemplice device
+  - Test WtfApp on UDOO NEO (follow the storyboard)
+
+* Pitch at the end of the hackaton
 
 ### Repositories
 
