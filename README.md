@@ -58,7 +58,7 @@ Use Cases:
 
   - [X] [Setup webserver infrastructure (nginx)](https://github.com/gmacario/wtf-docs/issues/2) ==> http://wtf.solarma.it/
   - [X] [Install Docker on VM](https://github.com/gmacario/wtf-docs/issues/3)
-  - [ ] [Setup Jenkins](https://github.com/gmacario/wtf-docs/issues/4)
+  - [X] [Setup Jenkins](https://github.com/gmacario/wtf-docs/issues/4)
   - [ ] [Create Jenkins job to build UDOO app](https://github.com/gmacario/wtf-docs/issues/5)
   - [ ] [Deploy APK to UDOO](https://github.com/gmacario/wtf-docs/issues/6)
 
