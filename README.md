@@ -14,4 +14,12 @@ This is the main project repository for the WTF Team at DroidCon Hackaton 2016.
 1. [Umberto Pepato](https://github.com/umbHo)
 1. [Alessandro Shevera](https://github.com/) **TODO**
 
+### The idea
+
+TODO
+
+### The architecture
+
+TODO
+
 <!-- EOF -->
