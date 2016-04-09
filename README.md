@@ -1,6 +1,6 @@
 # wtf-docs
 
-**WTF** is the acronym for "**W**ha**T** I **F**orgot?**" (no, this is not [what you probably thought...](http://s2.quickmeme.com/img/d0/d0374478557798edfc964afd006512de457207f70346d8e2ef524a98afd73578.jpg))
+**WTF** is the acronym for "**W**ha**T** I **F**orgot?" (no, this is not [what you probably thought...](http://s2.quickmeme.com/img/d0/d0374478557798edfc964afd006512de457207f70346d8e2ef524a98afd73578.jpg))
 
 This is the main project repository of the WTF Team at [Hackaton droidcon Italy 2016](http://it.droidcon.com/2016/hackathon-droidcon-italy/).
 
@@ -49,11 +49,11 @@ Use Cases:
 
 * Project infrastructure
 
-  - [X] Setup webserver infrastructure (nginx)
-  - [ ] Install Docker on VM
-  - [ ] Setup Jenkins
-  - [ ] Create Jenkins job to build UDOO app
-  - [ ] Deploy APK to UDOO
+  - [X] [Setup webserver infrastructure (nginx)](https://github.com/gmacario/wtf-docs/issues/2)
+  - [ ] [Install Docker on VM](https://github.com/gmacario/wtf-docs/issues/3)
+  - [ ] [Setup Jenkins](https://github.com/gmacario/wtf-docs/issues/4)
+  - [ ] [Create Jenkins job to build UDOO app](https://github.com/gmacario/wtf-docs/issues/5)
+  - [ ] [Deploy APK to UDOO](https://github.com/gmacario/wtf-docs/issues/6)
 
 * WTF Application (on the UDOO)
 
