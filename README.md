@@ -20,9 +20,14 @@ This is the main project repository of the WTF Team at [Hackaton droidcon Italy 
 Use Cases:
 
 1. Esco di casa e dimentico il telefono in casa (oggi)
+      - every object will have a beacon on it (cover,gadjets, etc)
+      - Udoo will scan all beacon (true/false) in a restricted area
+      - we' ll use google calendar API (text message for schedule)
+      - 
 2. Esco di casa e dimentico di chiudere il gas (domani)
 
 ### The architecture
+      
 
 ![High-Level Architecture Diagram](images/2016-04-09 13.30.32.jpg)
 
