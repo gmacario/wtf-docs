@@ -6,7 +6,7 @@ This is the main project repository of the WTF Team at [Hackaton droidcon Italy 
 
 ### Team Members
 
-1. [Gianpaolo Macario](https://github.com/gmacario) - CI, Docker, Architecture
+1. [Gianpaolo Macario](https://github.com/gmacario) - Architecture, Continuous Integration, Linux kernel hacker
 1. [Wilfried Mbouenda Mbogne](https://github.com/WillyShakes) - Architecture, Android guru
 1. [Giuseppe Nesca](https://github.com/neskov7)
 1. [Alessandro Censi](https://github.com/AleDroid93)
