@@ -34,18 +34,39 @@ Use Cases:
 There's an android app on Udoo with a local database and in future it'll have a cloud service
 We'll use the pattern MVP (model view presenter)
 
-### Tasks
-#### Create an empty project ()
-#### Create a class for the beacon discovery (output: list of devices object)
-#### Create the model class devices and the database (crud metods)
-#### Create a class to read the data on the Udoo hardware
-#### Create an activity to test the first use case
-#### TBD (to be done) add the google calendare API    @umbho
-### brending identity
-#### GUIs
-### web dashboard (2.0)
+### WTF Project Breakdown
+
+* Architecture overview
+
+-- [X] Identify two use-cases
+
+* Project infrastructure
+
+- [X] Setup webserver infrastructure (nginx)
+- [ ] Install Docker on VM
+- [ ] Setup Jenkins
+- [ ] Create Jenkins job to build UDOO app
+- [ ] Deploy APK to UDOO
+
+* WTF Application (on the UDOO)
+
+-- [X] Create an empty project https://github.com/WillyShakes/UdooWtf
+-- [ ] Create a class for the beacon discovery (output: list of devices object)
+-- [ ] Create the model class devices and the database (crud metods)
+-- [ ] Create a class to read the data on the Udoo hardware
+-- [ ] Create an activity to test the first use case
+-- [ ] Add the Google Calendar API (@umbho)
+
+* Branding identity
+-- GUIs
+-- web dashboard (2.0)
 
 TODO
+
+### Repositories
+
+* https://github.com/WillyShakes/UdooWtf
+* TODO
 
 #### The hardware for Hackaton PoC
 
