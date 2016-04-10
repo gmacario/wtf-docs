@@ -15,9 +15,14 @@
 
 Inside "nRF Master Control Panel", tap **SCANNER**.
 
+#### Sense microswitch
+
+TODO
+
+#### Turn on and off LED
+
 - Identify the entry for your iBLIO (example: xxx)
 - Tap **CONNECT**
-
 
 * Characterstic `xxx1000`
 * UUIF `xxxx-2901-xxx` (OUT3)
