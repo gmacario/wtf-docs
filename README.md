@@ -80,14 +80,18 @@ Use Cases:
   - [ ] Prepare pitch https://github.com/gmacario/wtf-docs/issues/9
   - [X] Slide deck for the Hackaton - See https://github.com/neskov7/wtfweb
 
-* Assemble the pieces for the demo
-* 
+* Assemble the pieces for the final demo at the Hackaton
+
   - [X] Prepare demo storyboard - See [demo](demo/)
   - [X] Bring up UDOO NEO with Android
   - [X] Connect IoTSemplice device
   - [ ] Test WtfApp on UDOO NEO (follow the storyboard)
 
 * Pitch at the end of the hackaton
+
+* ...
+
+* Profit!
 
 ### Sites
 
@@ -100,6 +104,9 @@ Use Cases:
 * WtfApp (Android app for the UDOO NEO): https://github.com/WillyShakes/UdooWtf
 * wtf-GUI sources: https://github.com/umbho/wtf-GUI
 * easy-jenkins: https://github.com/gmacario/easy-jenkins
+  - [Building an Android 5.1.1 image for the UDOO NEO](https://github.com/gmacario/easy-jenkins/blob/master/docs/building-android-udooneo.md)
+  - [Building a Yocto distribution for the UDOO NEO](https://github.com/gmacario/easy-jenkins/blob/master/docs/building-yocto-udooneo.md)
+  - [Building the WTF App for the UDOO NEO](https://github.com/gmacario/easy-jenkins/blob/master/docs/building-wtfapp-udooneo.md)
 
 #### The hardware for Hackaton PoC demo
 
