@@ -77,7 +77,7 @@ Use Cases:
   - [X] Web dashboard (2.0) - See https://github.com/umbho/wtf-GUI
 
 * Prepare pitch
-  - [ ] Prepare pitch https://github.com/gmacario/wtf-docs/issues/9
+  - [X] Prepare pitch https://github.com/gmacario/wtf-docs/issues/9
   - [X] Slide deck for the Hackaton - See https://github.com/neskov7/wtfweb
 
 * Assemble the pieces for the final demo at the Hackaton
@@ -87,11 +87,11 @@ Use Cases:
   - [X] Connect IoTSemplice device
   - [ ] Test WtfApp on UDOO NEO (follow the storyboard)
 
-* Pitch at the end of the hackaton
+* [X] Pitch at the end of the hackaton
 
-* ...
+* [ ] ...
 
-* Profit!
+* [ ] Profit!
 
 ### Sites
 
