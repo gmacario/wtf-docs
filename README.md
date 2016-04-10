@@ -12,8 +12,8 @@ This is the main project repository of the WTF Team at [Hackaton droidcon Italy 
 1. [Wilfried Mbouenda Mbogne](https://github.com/WillyShakes) - Architecture, Android guru
 1. [Giuseppe Nesca](https://github.com/neskov7)
 1. [Alessandro Censi](https://github.com/AleDroid93) - Java, Android
-1. [Paolo Marino](https://github.com/dolcestilnuovo65) - Java, Android
-1. [Alessandro Morelli](https://github.com/AlessandroMorelli96)
+1. [Paolo Marino](https://github.com/dolcestilnuovo65)
+1. [Alessandro Morelli](https://github.com/AlessandroMorelli96) - Java, Android
 1. [Umberto Pepato](https://github.com/umbHo)
 1. [Alessandro Shevera](https://github.com/AlessandroBDP)
 
