@@ -123,4 +123,10 @@ A big thanks to the sponsors:
 * [IoTSemplice](http://www.iotsemplice.com/)
 * [Talent Garden](http://talentgarden.org/)
 
+### Copyright and license
+
+Copyright (C) 2016, the [WTF Team](https://github.com/gmacario/wtf-docs).
+
+See file [LICENSE](LICENSE).
+
 <!-- EOF -->
