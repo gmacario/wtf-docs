@@ -96,8 +96,8 @@ Use Cases:
 
 ### Source Repositories
 
-* WFF slides for the Hackaton: https://github.com/neskov7/wtfweb
-* WtfApp for UDOO: https://github.com/WillyShakes/UdooWtf
+* WTF slides for the Hackaton: https://github.com/neskov7/wtfweb
+* WtfApp (Android app for the UDOO NEO): https://github.com/WillyShakes/UdooWtf
 * wtf-GUI sources: https://github.com/umbho/wtf-GUI
 * easy-jenkins: https://github.com/gmacario/easy-jenkins
 
