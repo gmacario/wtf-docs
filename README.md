@@ -96,16 +96,19 @@ Use Cases:
 
 ### Source Repositories
 
+* WFF slides for the Hackaton: https://github.com/neskov7/wtfweb
 * WtfApp for UDOO: https://github.com/WillyShakes/UdooWtf
 * wtf-GUI sources: https://github.com/umbho/wtf-GUI
 * easy-jenkins: https://github.com/gmacario/easy-jenkins
 
-#### The hardware for Hackaton PoC
+#### The hardware for Hackaton PoC demo
 
 * [UDOO NEO](http://www.udoo.org/udoo-neo/)
 * [KIT LCD 7" - Touch for NEO](http://shop.udoo.org/eu/accessories/video-kit-7-touch-for-neo.html)
 * [IoTSemplice](http://www.iotsemplice.com/)
 * A few different beacons provided by iBLio
+
+See instructions at [demo](demo/)
 
 A big thanks to the sponsors:
 
