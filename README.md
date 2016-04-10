@@ -60,8 +60,8 @@ Use Cases:
   - [X] [Setup webserver infrastructure (nginx)](https://github.com/gmacario/wtf-docs/issues/2) ==> http://wtf.solarma.it/
   - [X] [Install Docker on VM](https://github.com/gmacario/wtf-docs/issues/3)
   - [X] [Setup Jenkins](https://github.com/gmacario/wtf-docs/issues/4) ==> http://wtf.solarma.it:9080/
-  - [ ] [Create Jenkins job to build UDOO app](https://github.com/gmacario/wtf-docs/issues/5)
-  - [ ] [Deploy APK to UDOO](https://github.com/gmacario/wtf-docs/issues/6)
+  - [X] [Create Jenkins job to build UDOO app](https://github.com/gmacario/wtf-docs/issues/5)
+  - [ ] [Deploy APK and test it to UDOO NEO](https://github.com/gmacario/wtf-docs/issues/6)
 
 * WTF Application (on the UDOO) - Top level issue: https://github.com/gmacario/wtf-docs/issues/10
 
@@ -74,18 +74,18 @@ Use Cases:
 
 * Branding identity
 
-  - [ ] GUIs
-  - [ ] Web dashboard (2.0)
+  - [X] Web dashboard (2.0) - See https://github.com/umbho/wtf-GUI
 
-* Prepare pitch - Top level issue https://github.com/gmacario/wtf-docs/issues/9
-
-  - Develop storyboard
+* Prepare pitch
+  - [ ] Prepare pitch https://github.com/gmacario/wtf-docs/issues/9
+  - [X] Slide deck for the Hackaton - See https://github.com/neskov7/wtfweb
 
 * Assemble the pieces for the demo
-
-  - Bring up UDOO NEO with Android
-  - Connect IoTSemplice device
-  - Test WtfApp on UDOO NEO (follow the storyboard)
+* 
+  - [X] Prepare demo storyboard - See [demo](demo/)
+  - [X] Bring up UDOO NEO with Android
+  - [X] Connect IoTSemplice device
+  - [ ] Test WtfApp on UDOO NEO (follow the storyboard)
 
 * Pitch at the end of the hackaton
 
