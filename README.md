@@ -10,12 +10,12 @@ This is the main project repository of the WTF Team at [Hackaton droidcon Italy 
 
 1. [Gianpaolo Macario](https://github.com/gmacario) - Architecture, Continuous Integration, Linux kernel hacker
 1. [Wilfried Mbouenda Mbogne](https://github.com/WillyShakes) - Architecture, Android guru
-1. [Giuseppe Nesca](https://github.com/neskov7)
+1. [Giuseppe Nesca](https://github.com/neskov7) - Java, Android, Xml , Input/Output
 1. [Alessandro Censi](https://github.com/AleDroid93) - Java, Android
 1. [Paolo Marino](https://github.com/dolcestilnuovo65)
-1. [Alessandro Morelli](https://github.com/AlessandroMorelli96)
-1. [Umberto Pepato](https://github.com/umbHo) - Branding, UI Design, Presentational material
-1. [Alessandro Szewera](https://github.com/AlessandroBDP) - Presentation, Marketing Spescialist
+1. [Alessandro Morelli](https://github.com/AlessandroMorelli96) - Java, Android
+1. [Umberto Pepato](https://github.com/umbHo)
+1. [Alessandro Shevera](https://github.com/AlessandroBDP)
 
 Additionally, [Adam Szewera](https://github.com/adamszewe) acted as team mentor.
 
@@ -66,7 +66,7 @@ Use Cases:
 * WTF Application (on the UDOO) - Top level issue: https://github.com/gmacario/wtf-docs/issues/10
 
   - [X] Create an empty project https://github.com/WillyShakes/UdooWtf
-  - [ ] Create a class for the beacon discovery (output: list of devices object)
+  - [X] Create a class for the beacon discovery (output: list of devices object BLE) + Filter weFlowgitHub
   - [ ] Create the model class devices and the database (CRUD metods)
   - [ ] Create a class to read a digital input on the UDOO NEO hardware (or from IoTSemplice?)
   - [ ] Create an activity to test the first use case
