@@ -39,7 +39,7 @@ Use Cases:
 ![High-Level Architecture Diagram](images/wtf1.jpg)
 ![High-Level Architecture Diagram](images/wtf.jpg)
 
-* There is an Android app on the UDDO NEO with a local database and in future it'll have a cloud service
+* There is an Android app on the UDOO NEO with a local database and in future it'll have a cloud service
 * We will use the MVP ([Mode-View-Presenter](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter)) pattern
 
 ### WTF - Work Breakdown Structure
