@@ -11,9 +11,9 @@ If you wonder what WTF stands for, it is the acronym for "**W**ha**T** I **F**or
 
 ### Team Members
 
-1. [Gianpaolo Macario](https://github.com/gmacario) - Architecture, Continuous Integration, Linux kernel hacker
+1. [Gianpaolo Macario](https://github.com/gmacario) - Architecture, Continuous Integration, Linux hacker
 1. [Wilfried Mbouenda Mbogne](https://github.com/WillyShakes) - Architecture, Android guru
-1. [Giuseppe Nesca](https://github.com/neskov7) - Java, Android, Xml , Input/Output
+1. [Giuseppe Nesca](https://github.com/neskov7) - Java, Android, XML, Input/Output
 1. [Alessandro Censi](https://github.com/AleDroid93) - Java, Android
 1. [Paolo Marino](https://github.com/dolcestilnuovo65) - Java, Database
 1. [Alessandro Morelli](https://github.com/AlessandroMorelli96) - Java, Android
