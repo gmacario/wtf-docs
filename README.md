@@ -2,7 +2,7 @@
 
 [![Join the chat at https://gitter.im/gmacario/wtf-docs](https://badges.gitter.im/gmacario/wtf-docs.svg)](https://gitter.im/gmacario/wtf-docs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-This is the project repository of the **WTF** project. 
+This is the project repository of the **WTF** project.
 
 The WTF project was started during the [Hackaton droidcon Italy 2016](http://it.droidcon.com/2016/hackathon-droidcon-italy/) and got awarded the first prize offered by the [AAL Programme](http://www.aalforum.eu/).
 
@@ -116,9 +116,9 @@ Use Cases:
 * [UDOO NEO](http://shop.udoo.org/eu/neo.html)
 * [KIT LCD 7" - Touch for NEO](http://shop.udoo.org/eu/accessories/video-kit-7-touch-for-neo.html)
 * [IoTSemplice](http://www.iotsemplice.com/product/iotsemplice/)
-* A few different beacons provided by iBLio
+* A few different beacons provided by [iBLio](http://www.iblio.net/)
 
-See instructions at [demo](demo/)
+See instructions at [demo](demo/).
 
 A big thanks to the sponsors:
 
@@ -126,10 +126,12 @@ A big thanks to the sponsors:
 * [IoTSemplice](http://www.iotsemplice.com/)
 * [Talent Garden](http://talentgarden.org/)
 
-### Copyright and license
+### Copyright and Licensing
 
 Copyright (C) 2016, the [WTF Team](https://github.com/gmacario/wtf-docs).
 
-See file [LICENSE](LICENSE).
+wtf-doc is licensed under the Creative Commons License Attribution-ShareAlike 4.0 International.
+See [LICENSE](https://github.com/gmacario/wtf-doc/blob/master/LICENSE) for the full
+license text.
 
 <!-- EOF -->
