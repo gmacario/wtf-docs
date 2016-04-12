@@ -26,23 +26,22 @@ Additionally, [Adam Szewera](https://github.com/adamszewe) acted as team mentor.
 
 Use Cases:
 
-1. Esco di casa e dimentico il telefono in casa (oggi)
+1. I leave home but forgot my home in the house
     - Every object will have a beacon on it (cover, gadgets, etc)
     - The UDOO NEO will scan all beacon (true/false) in a restricted area
     - We will use Google Calendar API (text message for schedule)
 
-2. Esco di casa e dimentico di chiudere il gas (domani)
+2. I leave home but forgot to turn off gas tap
     - Door sensor is an input of IoTSemplice
     - Gas tap is an output of IoTSemplice
 
 ### The architecture
 
-
 ![High-Level Architecture Diagram](images/2016-04-09 13.30.32.jpg)
 ![High-Level Architecture Diagram](images/wtf1.jpg)
 ![High-Level Architecture Diagram](images/wtf.jpg)
 
-* There is an Android app on the UDOO NEO with a local database and in future it'll have a cloud service
+* There is an Android app on the UDOO NEO with a local database; in future it will have a cloud service
 * We will use the MVP ([Mode-View-Presenter](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter)) pattern
 
 ### WTF - Work Breakdown Structure
