@@ -6,9 +6,11 @@
 
 This is the top level repository of the **WTF** project.
 
-The WTF project was started during the [Hackaton droidcon Italy 2016](http://it.droidcon.com/2016/hackathon-droidcon-italy/) and got awarded the first prize offered by the [AAL Programme](http://www.aalforum.eu/).
+WTF is the acronym for "**W**ha**T** I **F**orgot?" (no, it does not mean [what you might have thought...](http://s2.quickmeme.com/img/d0/d0374478557798edfc964afd006512de457207f70346d8e2ef524a98afd73578.jpg))
 
-If you wonder what WTF stands for, it is the acronym for "**W**ha**T** I **F**orgot?" (no, it does not mean [what you might have thought...](http://s2.quickmeme.com/img/d0/d0374478557798edfc964afd006512de457207f70346d8e2ef524a98afd73578.jpg))
+
+
+The WTF project was started during the [Hackaton droidcon Italy 2016](http://it.droidcon.com/2016/hackathon-droidcon-italy/) and got awarded the first prize offered by the [AAL Programme](http://www.aalforum.eu/).
 
 
 ### Team Members
