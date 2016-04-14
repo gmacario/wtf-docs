@@ -2,7 +2,7 @@
 
 [![Join the chat at https://gitter.im/gmacario/wtf-docs](https://badges.gitter.im/gmacario/wtf-docs.svg)](https://gitter.im/gmacario/wtf-docs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-This is the project repository of the **WTF** project.
+This is the top level repository of the **WTF** project.
 
 The WTF project was started during the [Hackaton droidcon Italy 2016](http://it.droidcon.com/2016/hackathon-droidcon-italy/) and got awarded the first prize offered by the [AAL Programme](http://www.aalforum.eu/).
 
