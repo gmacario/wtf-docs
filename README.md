@@ -1,5 +1,7 @@
 # wtf-docs
 
+![wtf-logo](images/logowtf.jpg)
+
 [![Join the chat at https://gitter.im/gmacario/wtf-docs](https://badges.gitter.im/gmacario/wtf-docs.svg)](https://gitter.im/gmacario/wtf-docs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This is the top level repository of the **WTF** project.
