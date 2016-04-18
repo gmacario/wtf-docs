@@ -134,7 +134,7 @@ A big thanks to the sponsors:
 Copyright (C) 2016, the [WTF Team](https://github.com/gmacario/wtf-docs).
 
 wtf-doc is licensed under the Creative Commons License Attribution-ShareAlike 4.0 International.
-See [LICENSE](https://github.com/gmacario/wtf-doc/blob/master/LICENSE) for the full
+See [LICENSE](https://github.com/gmacario/wtf-docs/blob/master/LICENSE) for the full
 license text.
 
 <!-- EOF -->
