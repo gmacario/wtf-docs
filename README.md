@@ -10,7 +10,7 @@ WTF is the acronym for "**W**ha**T** I **F**orgot?" (no, it does not mean [what 
 
 
 
-The WTF project was started during the [Hackaton droidcon Italy 2016](http://it.droidcon.com/2016/hackathon-droidcon-italy/) and got awarded the first prize offered by the [AAL Programme](http://www.aalforum.eu/).
+The WTF project was started during the [Hackathon Droidcon Italy 2016](http://it.droidcon.com/2016/hackathon-droidcon-italy/) and got awarded the first prize offered by the [AAL Programme](http://www.aalforum.eu/).
 
 
 ### Team Members
@@ -84,16 +84,16 @@ Use Cases:
 
 * Prepare pitch
   - [X] Prepare pitch https://github.com/gmacario/wtf-docs/issues/9
-  - [X] Slide deck for the Hackaton - See https://github.com/neskov7/wtfweb
+  - [X] Slide deck for the Hackathon - See https://github.com/neskov7/wtfweb
 
-* Assemble the pieces for the final demo at the Hackaton
+* Assemble the pieces for the final demo at the Hackathon
 
   - [X] Prepare demo storyboard - See [demo](demo/)
   - [X] Bring up UDOO NEO with Android
   - [X] Connect IoTSemplice device
   - [ ] Test WtfApp on UDOO NEO (follow the storyboard)
 
-* [X] Pitch at the end of the hackaton
+* [X] Pitch at the end of the hackathon
 
 * [ ] ...
 
